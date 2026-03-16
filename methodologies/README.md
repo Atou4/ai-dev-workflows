@@ -6,3 +6,6 @@ Approaches for building software using AI systems and agents.
 
 - https://github.com/github/spec-kit  
   Toolkit for spec-driven AI development workflows where AI agents generate implementations from specifications.
+
+## Slow down to speed up approach
+-https://theengineeringmanager.substack.com/p/slow-down-to-speed-up  
